@@ -1,5 +1,6 @@
-# Dynatrace OneAgent Cleanup Script 🧹
+<img width="1536" height="1024" alt="ChatGPT Image Jul 10, 2025, 11_40_53 PM" src="https://github.com/user-attachments/assets/36d5bc52-8009-4f24-a29d-9dba9631a4a9" />
 
+# Dynatrace OneAgent Cleanup Script 🧹
 A lightweight and efficient Bash script to remotely clean up Dynatrace OneAgent storage data from multiple Linux worker nodes.
 
 ## 🚀 Features
